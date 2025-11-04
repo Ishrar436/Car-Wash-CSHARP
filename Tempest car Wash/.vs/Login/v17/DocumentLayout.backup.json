@@ -1,0 +1,899 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\showtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\showtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\showtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\showtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\changeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\changeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\changeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\changeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\carpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\carpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|c:\\users\\abrar\\onedrive\\desktop\\lectures\\c# (oop2)\\final\\login\\login\\carpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\carpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\normalcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\normalcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\normalcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\normalcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\singup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\singup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\singup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\singup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\bkash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\bkash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\bkash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\bkash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\addvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\addvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\cash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\cash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\tempesthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\tempesthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\tempesthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\tempesthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\updatevehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\updatevehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\updatevehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\updatevehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\cash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\cash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\addvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\addvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\normalbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\normalbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\normalbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\normalbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\premiumcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\premiumcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\changepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\changepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\changepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\changepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\sixwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\sixwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\sixwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\sixwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\premiumcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\premiumcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\fourwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\fourwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\fourwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\fourwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\premiumbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\premiumbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\premiumbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\premiumbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\twowheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\twowheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\login\\twowheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{092D432E-A10F-4EE4-9CA0-CAB7FB620921}|Login\\Login.csproj|solutionrelative:login\\twowheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NormalCar.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\NormalCar.cs",
+              "RelativeDocumentMoniker": "Login\\NormalCar.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\NormalCar.cs",
+              "RelativeToolTip": "Login\\NormalCar.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAA6wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:40:32.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\HomePage.cs",
+              "RelativeDocumentMoniker": "Login\\HomePage.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\HomePage.cs",
+              "RelativeToolTip": "Login\\HomePage.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:30:30.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NormalCar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\NormalCar.cs",
+              "RelativeDocumentMoniker": "Login\\NormalCar.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\NormalCar.cs [Design]",
+              "RelativeToolTip": "Login\\NormalCar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:32:50.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Home.cs",
+              "RelativeDocumentMoniker": "Login\\Home.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Home.cs",
+              "RelativeToolTip": "Login\\Home.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:28:35.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "History.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\History.cs",
+              "RelativeDocumentMoniker": "Login\\History.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\History.cs",
+              "RelativeToolTip": "Login\\History.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAawIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T15:48:52.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "History.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\History.cs",
+              "RelativeDocumentMoniker": "Login\\History.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\History.cs [Design]",
+              "RelativeToolTip": "Login\\History.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T15:44:17.121Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\HomePage.cs",
+              "RelativeDocumentMoniker": "Login\\HomePage.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\HomePage.cs [Design]",
+              "RelativeToolTip": "Login\\HomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:26:59.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarPayment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\CarPayment.cs",
+              "RelativeDocumentMoniker": "Login\\CarPayment.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\CarPayment.cs [Design]",
+              "RelativeToolTip": "Login\\CarPayment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:20:53.417Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarPayment.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\CarPayment.cs",
+              "RelativeDocumentMoniker": "Login\\CarPayment.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\CarPayment.cs",
+              "RelativeToolTip": "Login\\CarPayment.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwE8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:30:13.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Login.cs",
+              "RelativeDocumentMoniker": "Login\\Login.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Login.cs",
+              "RelativeToolTip": "Login\\Login.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:30:18.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Home.cs",
+              "RelativeDocumentMoniker": "Login\\Home.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Home.cs [Design]",
+              "RelativeToolTip": "Login\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:16:48.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Login.cs",
+              "RelativeDocumentMoniker": "Login\\Login.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Login.cs [Design]",
+              "RelativeToolTip": "Login\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:25:32.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Program.cs",
+              "RelativeDocumentMoniker": "Login\\Program.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Program.cs",
+              "RelativeToolTip": "Login\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T20:46:54.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Singup.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Singup.cs",
+              "RelativeDocumentMoniker": "Login\\Singup.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Singup.cs",
+              "RelativeToolTip": "Login\\Singup.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAwwFsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:30:21.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Singup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Singup.cs",
+              "RelativeDocumentMoniker": "Login\\Singup.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Singup.cs [Design]",
+              "RelativeToolTip": "Login\\Singup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:00:21.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Bkash.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Bkash.cs",
+              "RelativeDocumentMoniker": "Login\\Bkash.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Bkash.cs",
+              "RelativeToolTip": "Login\\Bkash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:16:28.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Cash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Cash.cs",
+              "RelativeDocumentMoniker": "Login\\Cash.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Cash.cs [Design]",
+              "RelativeToolTip": "Login\\Cash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:24:05.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Cash.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Cash.cs",
+              "RelativeDocumentMoniker": "Login\\Cash.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Cash.cs",
+              "RelativeToolTip": "Login\\Cash.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAwJcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:30:11.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Bkash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Bkash.cs",
+              "RelativeDocumentMoniker": "Login\\Bkash.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Bkash.cs [Design]",
+              "RelativeToolTip": "Login\\Bkash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:11:49.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\AddVehicle.cs",
+              "RelativeDocumentMoniker": "Login\\AddVehicle.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\AddVehicle.cs",
+              "RelativeToolTip": "Login\\AddVehicle.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:34:28.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddVehicle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\AddVehicle.cs",
+              "RelativeDocumentMoniker": "Login\\AddVehicle.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\AddVehicle.cs [Design]",
+              "RelativeToolTip": "Login\\AddVehicle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:22:42.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdateVehicles.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\UpdateVehicles.cs",
+              "RelativeDocumentMoniker": "Login\\UpdateVehicles.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\UpdateVehicles.cs",
+              "RelativeToolTip": "Login\\UpdateVehicles.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAArwEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T14:47:44.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpdateVehicles.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\UpdateVehicles.cs",
+              "RelativeDocumentMoniker": "Login\\UpdateVehicles.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\UpdateVehicles.cs [Design]",
+              "RelativeToolTip": "Login\\UpdateVehicles.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T14:46:21.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Showtable.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Showtable.cs",
+              "RelativeDocumentMoniker": "Login\\Showtable.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Showtable.cs*",
+              "RelativeToolTip": "Login\\Showtable.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:28:35.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Showtable.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Showtable.cs",
+              "RelativeDocumentMoniker": "Login\\Showtable.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Showtable.cs [Design]*",
+              "RelativeToolTip": "Login\\Showtable.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:34:53.587Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdminHome.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\AdminHome.cs",
+              "RelativeDocumentMoniker": "Login\\AdminHome.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\AdminHome.cs",
+              "RelativeToolTip": "Login\\AdminHome.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAEwGkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:11:41.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AdminHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\AdminHome.cs",
+              "RelativeDocumentMoniker": "Login\\AdminHome.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\AdminHome.cs [Design]",
+              "RelativeToolTip": "Login\\AdminHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:11:31.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Adminlogin.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Adminlogin.cs",
+              "RelativeDocumentMoniker": "Login\\Adminlogin.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Adminlogin.cs",
+              "RelativeToolTip": "Login\\Adminlogin.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwEoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:03:40.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Adminlogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Adminlogin.cs",
+              "RelativeDocumentMoniker": "Login\\Adminlogin.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Adminlogin.cs [Design]",
+              "RelativeToolTip": "Login\\Adminlogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T12:33:17.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Changeinfo.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Changeinfo.cs",
+              "RelativeDocumentMoniker": "Login\\Changeinfo.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Changeinfo.cs",
+              "RelativeToolTip": "Login\\Changeinfo.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwE0AAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:27:25.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Changeinfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Changeinfo.cs",
+              "RelativeDocumentMoniker": "Login\\Changeinfo.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Changeinfo.cs [Design]",
+              "RelativeToolTip": "Login\\Changeinfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:25:16.723Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Changepass.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Changepass.cs",
+              "RelativeDocumentMoniker": "Login\\Changepass.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Changepass.cs",
+              "RelativeToolTip": "Login\\Changepass.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAqwG4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:48:59.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Changepass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Changepass.cs",
+              "RelativeDocumentMoniker": "Login\\Changepass.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Changepass.cs [Design]",
+              "RelativeToolTip": "Login\\Changepass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:20:24.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Setting.cs",
+              "RelativeDocumentMoniker": "Login\\Setting.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Setting.cs",
+              "RelativeToolTip": "Login\\Setting.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:38:10.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Setting.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Setting.cs",
+              "RelativeDocumentMoniker": "Login\\Setting.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Setting.cs [Design]",
+              "RelativeToolTip": "Login\\Setting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:14:20.14Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Info.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Info.cs",
+              "RelativeDocumentMoniker": "Login\\Info.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Info.cs",
+              "RelativeToolTip": "Login\\Info.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAAwNkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:58:14.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Info.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Info.cs",
+              "RelativeDocumentMoniker": "Login\\Info.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Info.cs [Design]",
+              "RelativeToolTip": "Login\\Info.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:51:19.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Truck.cs",
+              "RelativeDocumentMoniker": "Login\\Truck.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Truck.cs",
+              "RelativeToolTip": "Login\\Truck.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAASwFMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:32:35.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Truck.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Truck.cs",
+              "RelativeDocumentMoniker": "Login\\Truck.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Truck.cs [Design]",
+              "RelativeToolTip": "Login\\Truck.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:11:09.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Bus.cs",
+              "RelativeDocumentMoniker": "Login\\Bus.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Bus.cs",
+              "RelativeToolTip": "Login\\Bus.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAgwGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:04:14.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Bus.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Bus.cs",
+              "RelativeDocumentMoniker": "Login\\Bus.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Bus.cs [Design]",
+              "RelativeToolTip": "Login\\Bus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:01:57.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Sixwheel.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Sixwheel.cs",
+              "RelativeDocumentMoniker": "Login\\Sixwheel.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Sixwheel.cs",
+              "RelativeToolTip": "Login\\Sixwheel.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAA5wBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:47:22.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Sixwheel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Sixwheel.cs",
+              "RelativeDocumentMoniker": "Login\\Sixwheel.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Sixwheel.cs [Design]",
+              "RelativeToolTip": "Login\\Sixwheel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:43:31.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PremiumCar.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\PremiumCar.cs",
+              "RelativeDocumentMoniker": "Login\\PremiumCar.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\PremiumCar.cs",
+              "RelativeToolTip": "Login\\PremiumCar.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwGcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:40:27.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PremiumCar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\PremiumCar.cs",
+              "RelativeDocumentMoniker": "Login\\PremiumCar.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\PremiumCar.cs [Design]",
+              "RelativeToolTip": "Login\\PremiumCar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:32:16.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Fourwheel.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Fourwheel.cs",
+              "RelativeDocumentMoniker": "Login\\Fourwheel.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Fourwheel.cs",
+              "RelativeToolTip": "Login\\Fourwheel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:40:53.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Fourwheel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Fourwheel.cs",
+              "RelativeDocumentMoniker": "Login\\Fourwheel.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Fourwheel.cs [Design]",
+              "RelativeToolTip": "Login\\Fourwheel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:30:24.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "NormalBike.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\NormalBike.cs",
+              "RelativeDocumentMoniker": "Login\\NormalBike.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\NormalBike.cs",
+              "RelativeToolTip": "Login\\NormalBike.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAADwv3cAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:56:33.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "NormalBike.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\NormalBike.cs",
+              "RelativeDocumentMoniker": "Login\\NormalBike.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\NormalBike.cs [Design]",
+              "RelativeToolTip": "Login\\NormalBike.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:51:03.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PremiumBike.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\PremiumBike.cs",
+              "RelativeDocumentMoniker": "Login\\PremiumBike.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\PremiumBike.cs",
+              "RelativeToolTip": "Login\\PremiumBike.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAmwFIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:55:47.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PremiumBike.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\PremiumBike.cs",
+              "RelativeDocumentMoniker": "Login\\PremiumBike.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\PremiumBike.cs [Design]",
+              "RelativeToolTip": "Login\\PremiumBike.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:48:11.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Twowheel.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Twowheel.cs",
+              "RelativeDocumentMoniker": "Login\\Twowheel.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Twowheel.cs",
+              "RelativeToolTip": "Login\\Twowheel.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAswBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:26:33.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Twowheel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Twowheel.cs",
+              "RelativeDocumentMoniker": "Login\\Twowheel.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Twowheel.cs [Design]",
+              "RelativeToolTip": "Login\\Twowheel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:24:51.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Register.cs",
+              "RelativeDocumentMoniker": "Login\\Register.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\Register.cs [Design]",
+              "RelativeToolTip": "Login\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:27:19.269Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TempestHome.cs",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\TempestHome.cs",
+              "RelativeDocumentMoniker": "Login\\TempestHome.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\TempestHome.cs",
+              "RelativeToolTip": "Login\\TempestHome.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA8wBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:07:15.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TempestHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\TempestHome.cs",
+              "RelativeDocumentMoniker": "Login\\TempestHome.cs",
+              "ToolTip": "C:\\Users\\abrar\\OneDrive\\Desktop\\Lectures\\C# (OOP2)\\Final\\Login\\Login\\TempestHome.cs [Design]",
+              "RelativeToolTip": "Login\\TempestHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:05:04.26Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
